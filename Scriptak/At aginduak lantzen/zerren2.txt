@@ -1,0 +1,17 @@
+.:
+Ariketa 2.sh
+Ariketa 3.sh
+Ariketa 4.sh
+Ariketa 5.sh
+Ariketak.md
+egut1
+egut2
+image-1.png
+image-2.png
+image-3.png
+image.png
+prog1.sh
+prog2.sh
+prog3.sh
+zerren1
+zerren2.txt
